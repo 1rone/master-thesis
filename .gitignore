@@ -1,0 +1,15 @@
+ hash/
+venv/
+chromedriver
+test.py
+test.txt
+test.html
+chromedriver
+__pycache__/
+.git/
+.DS_Store
+.idea/
+kekw
+build/
+dist/
+bin/
